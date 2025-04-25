@@ -1,1 +1,1 @@
-# SpringBootPrac
+# 스프링 연습 레포지
